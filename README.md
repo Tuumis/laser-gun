@@ -1,2 +1,2 @@
 # laser-gun
-DIY laset tag gun
+DIY laser tag gun
